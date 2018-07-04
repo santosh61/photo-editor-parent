@@ -1,0 +1,9 @@
+*.iml
+.gradle
+/local.properties
+/.idea
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+/photo-editor/src/main/java/com/utsavoza/photoeditor/Keys.java
